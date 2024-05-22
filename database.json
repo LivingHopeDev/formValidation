@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "m",
+    "lastName": "b",
+    "otherNames": "",
+    "email": "d@m.com",
+    "phone": "08065108162",
+    "gender": "male"
+  },
+  {
+    "firstName": "b",
+    "lastName": "c",
+    "otherNames": "1",
+    "email": "d@m.com",
+    "phone": "08065108162",
+    "gender": "male"
+  },
+  {
+    "firstName": "b",
+    "lastName": "c",
+    "otherNames": "1",
+    "email": "d@m.com",
+    "phone": "08065108162",
+    "gender": "male"
+  }
+]
